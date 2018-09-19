@@ -4,9 +4,9 @@ Blablabla
 
 ## Mon titre de second niveau
 
-'''
+‘‘’
 Un bout de code
-'''
+‘’‘
 
 > Une Citation
 
